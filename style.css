@@ -1,0 +1,57 @@
+body{
+  background: #ffaec9
+}
+
+.título-principal{
+	padding-left: 20px;
+}
+
+título-centralizado
+	text-align: center; color:#FFFF00;text-shadow: -1px 0 black, 01px 0 black, 0 -1px black;
+}
+
+#imagem1{
+
+	text-align: center;
+}
+
+
+p {
+	text-align: center;
+}
+
+#sc1 {
+ font-size: 19px; text-align: center
+ }
+
+#sc2 {
+ font-size: 19px; text-align: center
+ }
+#sc3 { 
+	font-size: 19px
+ }
+#sc4{
+	text-align: center;
+}
+p em {
+	color: #FFFF00;text-shadow: -1px 0 black, 01px 0 black, 0 -1px black;
+}
+
+.itens{
+  font-style: italic;
+}
+
+h2{
+	color: #FFFF00;text-shadow: -1px 0 black, 01px 0 black, 0 -1px black;
+	font-size: 30px
+}
+
+h2{text-align: center;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
